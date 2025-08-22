@@ -1,3 +1,1 @@
-first commmit
-second commit 
-third commit
+conflict 1
